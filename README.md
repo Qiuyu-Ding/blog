@@ -48,6 +48,7 @@ Methods：
           通常的无监督方法是：迭代、扩展词典，不断优化映射矩阵：一般使用Procrustes方法
           hubness问题：陷入局部最优
           hubness filtering mechanism：过滤出目标域中作为中心的单词，eg.在迭代字典扩展中不考虑目标域中在源域中具有超过阈值邻居数量的单词。
+          
 Experimental Setup
 
 Main Results

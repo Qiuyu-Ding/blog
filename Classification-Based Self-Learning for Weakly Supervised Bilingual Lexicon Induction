@@ -1,1 +1,6 @@
-# Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction 2020 acl
+#Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction 2020 acl
+主要面对CLWE（cross-lingual word embedding），CLEW主要依赖一个小的种子词典来学习和改善跨语言映射，CLWE的主要应用场景之一就是BLI。
+这篇工作提出得ClassMap，基于分类来提高自学习的效果，以此提高CLWE的质量。
+##1. 以往CLWE的方法
+    
+##2. Motivation
